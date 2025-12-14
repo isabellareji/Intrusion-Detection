@@ -1,0 +1,6 @@
+2025-12-13 21:58:54 [ALERT] Possible port scan detected from 192.168.1.10 (7 ports)
+2025-12-13 22:00:06 [ALERT] Possible port scan detected from 192.168.1.10 (7 ports)
+2025-12-13 22:10:45 [ALERT] Port scan detected from 192.168.1.10 (6 ports in 20s)
+2025-12-13 22:10:45 [ALERT] Brute force login attempt from 10.0.0.8 (5 failures in 20s)
+2025-12-13 22:20:02 [ALERT] Port scan detected from 192.168.1.10 (6 ports in 20s)
+2025-12-13 22:20:02 [ALERT] Brute force login attempt from 10.0.0.8 (5 failures in 20s)
